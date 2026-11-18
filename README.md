@@ -1,0 +1,1 @@
+参见powshell.md
