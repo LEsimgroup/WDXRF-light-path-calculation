@@ -1,1 +1,1 @@
-参见powshell.md
+环境配置参照requirements.txt,运行流程参照powershell.md
